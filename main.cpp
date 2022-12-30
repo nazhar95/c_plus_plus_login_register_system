@@ -37,7 +37,7 @@ main ()
   
   cout << "Please choose one of the options below: \n";
 
-  cout << "1 : Register\n2 : Login\nYour choice: ";
+  cout << "1 : Register\n2 : Login\nYour selection: ";
   cin >> choice;
 
   if (choice == 1)
